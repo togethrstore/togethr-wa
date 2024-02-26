@@ -13,14 +13,10 @@ const categories = [
   {
     title: "Togethr",
     items: [
-      { name: "About Us", link: "/about-us" },
+     
       { name: "Contact Us", link: "/contact-us" },
       { name: "Terms & Conditions", link: "/terms&conditions" },
       { name: "Privacy Policy", link: "/privacy-policy" },
-      {
-        name: "Cancellation & Refund Policy",
-        link: "/cancellation&refund-policy",
-      },
     ],
   },
 ];
