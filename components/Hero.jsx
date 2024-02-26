@@ -83,7 +83,7 @@ export default function Hero() {
             AI powered expert — Personalized product picks — for free!
             </div>
           </div>
-          <a target="_blank" rel="noopener noreferrer" href="/form">
+          <a target="_blank" rel="noopener noreferrer" href="https://dub.sh/43jONmn">
             <button className="w-full lg:w-max medium bg-[#625DF5] transition-all duration-500 rounded-2xl hover:bg-gradient-to-r from-blue-500 via-indigo-500 to-blue-500 py-3 px-12 text-white text-lg">
               Find your perfect product
             </button>
